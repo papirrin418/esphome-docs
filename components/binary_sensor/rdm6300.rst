@@ -131,6 +131,8 @@ each tag.
 .. figure:: images/rdm6300-ui.png
     :align: center
     :width: 80.0%
+    
+The idea of this plugin is good, but it is not considered anti-bounce so you should implement some algorithm to avoid it.
 
 See Also
 --------
